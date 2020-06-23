@@ -1,0 +1,5 @@
+---|------------------XX--|----e
+--o-|*------XX--e-XXXXXXXXXXXXXX
+-----|-----------eXXXXXXXXXXXXXX
+--XX--XXXX------e---XXXXXXXXXXXX
+------XXXX------------XXXXXXXXXX

@@ -1,0 +1,15 @@
+--------------------------------
+--------------------------------
+--------------------------------
+SSSSSSSSSSSSSS------------------
+SSSSSSSSSSSSSS------------------
+SSSSSSSSSSSSSS------------------
+SSSSSSSSSSSSSS-----------------X
+SSSSSSSSSSSSSS----------------XX
+SSSSSSSSSSSSSS---------------XXX
+SSSSSSSSSSSSSS--------------XXXX
+SSSSSSSSSSSSSS--------E----XXXXX
+SSSSSSSSSSSSSS---E---XX---XXXXXX
+SSSSSSSSSSSSSS--XX---XX--XXXXXXX
+SSSSSSSSSSSSSS--XX---XX-XXXXXXXX
+XXXXXXXXXXXXXX--XX---XXXXXXXXXXX

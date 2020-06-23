@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-SS----SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS!SSSSSSSSSSSSSSSSSSSSSSSSS-----SSSSSSSSS--------------SSSSSSSSSSSSSSSSSSSSSS
+-SS------XX----XX------------------------------------------------SSSSSSSSSSSSSSSSSSSSSSSSSS------SSSSSSSSSSSSSSSS-------XX--------------------X-------------------------XX--
+-SS------XX----XX-------E----------------xx----------------------SSSSSSSSSSSSSSSSSSSSSSSSSS------SSSSSSSSSSSSSSSS-------XX----------------------------------------------XX--
+-SS------XX----XX---QQQQQQ--------xxxxxxxx-x---------------------SSSSSSSSSSSSSSSSSSSSSSSSSS------SSSSSSSSSSSSSSSS-------XX----------------------------------------------XX--
+-SS------XX----XX----------------xxSSSSSSS--xxxxxx--------------------------------------------xxxxx---------------------XX-------SSSSSSSS-X--------X--------------------XX--
+-SS------------XX---------------xx-SSSSSSS--SSSSS-x--------------------------xxxxx-------xxxxxx----x--------------------XX-------SSSSSSS--------------------------xxxx--XX--
+-SS------------XX--xxxxxxxxxxxxxx--SSSSSSS--SSSSS--xxxxxxxxxxxxxxxxxxxxxxxxxxx----xxxxxxxxE--XX-----x------xxxxxxx------XX-------SSSSSS---xxx-------------------xxx---xxxxx-
+-SSS-----------XX-xxSSSSSSSSSSSSS--SSSSSSS--SSSSS!SS!SSSSS!!!!!!!SSSSSSSSSSSS!----SSSSSSSSS--XX------x--xxxx-XXXX-x-----XX------!SSSSS---xx--xxx---------------xxXX----x---x
+-SS------------XXxx-SSSSSSSSSSSSS-------------------SSSSSSSSSSSSS----------------------------XX-------xxxXXX-XXXX--x----XX--------------xx----x-x-------------xx-XX----S-S-S
+-SS-----xxx-----xx--SSSSSSSSSSSSS---------XX--------SSSSSSSSSSSSS--------------XX------------XX-------EEXXXX-XXXX---x-----xxxxx--------xx-----X--x----oooooooxx--XX----S-S-S
+-SS--xxxx--xxxxxx---SSSSSSSSSSSSS---------XX-----------------------------------XX------------XX------E-XXXXX-XXXX----xxxxxx----xxxxxxxxx----------xxxxxxxxxxxx---XX----S-S-S
+-XXXXXXXX--XXXXXXE--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXEXXXXXX-XXXXXXEXXXXXXX----XXXXXXXXX-----------x--XXXXXXXX---XX----S-S-S
+-XXXXXXXX--XXXXXXX--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXXXXXX----XXXXXXXXX--X--------X--XXXXXXXX---XX----S-S-S

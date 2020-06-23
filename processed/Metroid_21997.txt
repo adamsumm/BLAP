@@ -1,0 +1,15 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------e--XXXX-e---e--XXXXXX
+--------------XXXX--------XXXXXX
+--------------XXXX--------XXXXXX
+-----X--------XXXX----------$$$$
+-----X----------e-----------$$$$
+---X-X-X--------------------$$$$
+---X-X-X------------------XXXXXX
+-X-X-X-X-X----------------XXXXXX
+-X-X---X-X----------------XXXXXX
+-X-X---X-X-X--------------XXXXXX
+-X-------X-X-X------------XXXXXX
+vvvvvvvvvvvvvvXXXvX^^XXXXXXXXXXX
+vvvvvvvvvvvvvvXXXvXXXXXXXXXXXXXX

@@ -1,0 +1,15 @@
+--------------------------------
+--------------------------------
+S----SSSSSSSSSSSSSSSSSSSSSSSSSSS
+S------XX----XX-----------------
+S------XX----XX-------E---------
+S------XX----XX---QQQQQQ--------
+S------XX----XX----------------∔
+S------------XX---------------++
+S------------XX--++++++++++++++-
+SS-----------XX-++SSSSSSSSSSSSS-
+S------------XX++-SSSSSSSSSSSSS-
+S-----+++-----++--SSSSSSSSSSSSS-
+S--∓+++--++++++---SSSSSSSSSSSSS-
+XXXXXXX--XXXXXXE--XXXXXXXXXXXXXX
+XXXXXXX--XXXXXXX--XXXXXXXXXXXXXX
